@@ -39,6 +39,5 @@ LinkedIn: https://www.linkedin.com/in/lorenzo-cabrera-blanch-3b126a214/
 
 
 ### Some Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenbataraza&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenbataraza&show_icons=true&theme=gruvbox&count_private=true&hide=contribs,issues,prs)
 
