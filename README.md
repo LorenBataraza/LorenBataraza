@@ -6,3 +6,5 @@
 Email: lorenzocabrerablanch@gmail.com
 LinkedIn: https://www.linkedin.com/in/lorenzo-cabrera-blanch-3b126a214/
 
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
